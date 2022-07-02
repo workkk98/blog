@@ -1,0 +1,1 @@
+const t={key:"v-49c15b6f",path:"/functional-programming/chapter-1.html",title:"\u7B2C\u4E00\u7AE0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656765985e3,contributors:[{name:"zhanghefan",email:"zhanghefan@bytedance.com",commits:1}]},filePathRelative:"functional-programming/chapter-1.md"};export{t as data};

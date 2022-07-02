@@ -1,0 +1,1 @@
+const e={key:"v-b39022d6",path:"/vue/renderwatcher.html",title:"watcher",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656765985e3,contributors:[{name:"zhanghefan",email:"zhanghefan@bytedance.com",commits:1}]},filePathRelative:"vue/renderwatcher.md"};export{e as data};

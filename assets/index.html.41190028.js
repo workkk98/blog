@@ -1,0 +1,1 @@
+const e={key:"v-744a811d",path:"/npm/",title:"npm\u751F\u6001",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656765985e3,contributors:[{name:"zhanghefan",email:"zhanghefan@bytedance.com",commits:1}]},filePathRelative:"npm/README.md"};export{e as data};
