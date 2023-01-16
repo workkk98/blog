@@ -1,0 +1,1 @@
+const e={key:"v-f54a58e0",path:"/npm/npm-scripts.html",title:"npm-scripts",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u539F\u7406",slug:"\u539F\u7406",children:[]},{level:2,title:"\u811A\u672C\u6587\u4EF6\u7684\u539F\u7406",slug:"\u811A\u672C\u6587\u4EF6\u7684\u539F\u7406",children:[]}],git:{},filePathRelative:"npm/npm-scripts.md"};export{e as data};

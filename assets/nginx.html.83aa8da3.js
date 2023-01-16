@@ -1,0 +1,1 @@
+const e={key:"v-2d21add2",path:"/others/nginx.html",title:"nginx",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u914D\u7F6E\u6587\u4EF6",slug:"\u914D\u7F6E\u6587\u4EF6",children:[]}],git:{},filePathRelative:"others/nginx.md"};export{e as data};

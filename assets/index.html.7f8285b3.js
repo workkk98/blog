@@ -1,0 +1,1 @@
+const t={key:"v-7d1956e7",path:"/functional-programming/",title:"\u51FD\u6570\u5F0F\u7F16\u7A0B\uFF5E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"functional-programming/README.md"};export{t as data};
